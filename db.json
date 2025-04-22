@@ -1,0 +1,149 @@
+{
+  "clientes": [
+    {
+      "id": "1",
+      "name": "Raphael",
+      "lastName": "Silva",
+      "telephone": "(11) 91234-5678",
+      "email": "raphael.silva@email.com",
+      "cpf": "123.456.789-00",
+      "rg": "12.345.678-9"
+    },
+    {
+      "id": "2",
+      "name": "Camila",
+      "lastName": "Oliveira",
+      "telephone": "(21) 99876-5432",
+      "email": "camila.oliveira@email.com",
+      "cpf": "987.654.321-00",
+      "rg": "98.765.432-1"
+    },
+    {
+      "id": "3",
+      "name": "Lucas",
+      "lastName": "Santos",
+      "telephone": "(31) 98765-4321",
+      "email": "lucas.santos@email.com",
+      "cpf": "321.654.987-00",
+      "rg": "32.165.498-7"
+    },
+    {
+      "id": "4",
+      "name": "Fernanda",
+      "lastName": "Costa",
+      "telephone": "(51) 97654-3210",
+      "email": "fernanda.costa@email.com",
+      "cpf": "741.852.963-00",
+      "rg": "74.185.296-3"
+    },
+    {
+      "id": "5",
+      "name": "Bruno",
+      "lastName": "Ferreira",
+      "telephone": "(41) 96543-2109",
+      "email": "bruno.ferreira@email.com",
+      "cpf": "852.963.741-00",
+      "rg": "85.296.374-1"
+    },
+    {
+      "id": "6",
+      "name": "Juliana",
+      "lastName": "Martins",
+      "dataNascimento": "1993-04-01",
+      "telephone": "(71) 95432-1098",
+      "email": "juliana.martins@email.com",
+      "cpf": "369.258.147-00",
+      "rg": "36.925.814-7"
+    },
+    {
+      "id": "7",
+      "name": "Felipe",
+      "lastName": "Almeida",
+      "telephone": "(61) 94321-0987",
+      "email": "felipe.almeida@email.com",
+      "cpf": "159.753.486-00",
+      "rg": "15.975.348-6"
+    },
+    {
+      "id": "8",
+      "name": "Mariana",
+      "lastName": "Souza",
+      "telephone": "(62) 93210-9876",
+      "email": "mariana.souza@email.com",
+      "cpf": "258.147.369-00",
+      "rg": "25.814.736-9"
+    },
+    {
+      "id": "9",
+      "name": "Gabriel",
+      "lastName": "Ribeiro",
+      "telephone": "(85) 92109-8765",
+      "email": "gabriel.ribeiro@email.com",
+      "cpf": "963.741.852-00",
+      "rg": "96.374.185-2"
+    },
+    {
+      "id": "10",
+      "name": "Aline",
+      "lastName": "Moura",
+      "telephone": "(95) 91098-7654",
+      "email": "aline.moura@email.com",
+      "cpf": "147.258.369-00",
+      "rg": "14.725.836-9"
+    },
+    {
+      "id": "2f32",
+      "name": "Genevania",
+      "lastName": "Buava",
+      "cpf": "139.065.217-37",
+      "rg": "27.499.230-4",
+      "email": "raphaelcosta.1@hotmail.com",
+      "telephone": "(21)98383-7076"
+    },
+    {
+      "id": "a8a2",
+      "name": "Raphael da Silva Costa",
+      "lastName": "Costa",
+      "cpf": "139.065.217-37",
+      "rg": "27.499.230-4",
+      "email": "raphaelcosta.1@hotmail.com",
+      "telephone": "(21)98394-5406"
+    },
+    {
+      "id": "5c1e",
+      "name": "Megan",
+      "lastName": "Easy",
+      "cpf": "139.444.120-37",
+      "rg": "27.389.230-4",
+      "email": "raphaelcosta.1@hotmail.com",
+      "telephone": "(21)98383-7076"
+    },
+    {
+      "id": "88f3",
+      "name": "Raphael",
+      "lastName": "Costa",
+      "cpf": "139.065.217-37",
+      "rg": "27.499.230-4",
+      "email": "raphaelcosta.1@hotmail.com",
+      "telephone": "(21)98383-7076"
+    },
+    {
+      "id": "b73c",
+      "name": "Raphael da Silva Costa",
+      "lastName": "Costa",
+      "cpf": "139.065.217-37",
+      "rg": "27.499.230-4",
+      "email": "raphaelcosta.1@hotmail.com",
+      "telephone": "(21)93933-7076"
+    },
+    {
+      "id": "410a",
+      "name": "Shenia",
+      "lastName": "Kely",
+      "cpf": "139.065.217.37",
+      "rg": "27.499.230-4",
+      "email": "raphaelcosta.1@hotmail.com",
+      "telephone": "(21)938386-7076"
+    }
+  ]
+}
